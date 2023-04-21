@@ -1,0 +1,46 @@
+{
+    "id": 1,
+    "gameTitle": "Game 1",
+    "rounds": [
+        {
+            "num": 1,
+            "title": "Single Jeopardy",
+            "type": "normal",
+            "numCategories": 6,
+            "categories": [
+                {
+                    "category": "GeneralR1",
+                    "clues": [
+                        {
+                            "value": 200,
+                            "clue": "TestClueR1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "num": 2,
+            "title": "Double Jeopardy",
+            "type": "normal",
+            "numCategories": 6,
+            "categories": [
+                {
+                    "category": "GeneralR2",
+                    "clues": [
+                        {
+                            "value": 200,
+                            "clue": "TestClueR2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

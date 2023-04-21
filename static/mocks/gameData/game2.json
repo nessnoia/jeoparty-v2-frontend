@@ -1,0 +1,509 @@
+{
+    "id": 1,
+    "gameTitle": "Game 2",
+    "rounds": [
+        {
+            "num": 1,
+            "title": "Single Jeopardy",
+            "type": "normal",
+            "categories": [
+                {
+                    "category": "General1",
+                    "clues": [
+                        {
+                            "value": 200,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 400,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 600,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General2",
+                    "clues": [
+                        {
+                            "value": 200,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 400,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 600,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General3",
+                    "clues": [
+                        {
+                            "value": 200,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 400,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 600,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General4",
+                    "clues": [
+                        {
+                            "value": 200,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 400,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 600,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General5",
+                    "clues": [
+                        {
+                            "value": 200,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 400,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 600,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General6",
+                    "clues": [
+                        {
+                            "value": 200,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 400,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 600,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "num": 2,
+            "title": "Double Jeopardy",
+            "type": "normal",
+            "categories": [
+                {
+                    "category": "General1",
+                    "clues": [
+                        {
+                            "value": 400,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1200,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1600,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 2000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General2",
+                    "clues": [
+                        {
+                            "value": 400,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1200,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1600,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 2000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General3",
+                    "clues": [
+                        {
+                            "value": 400,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1200,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1600,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 2000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General4",
+                    "clues": [
+                        {
+                            "value": 400,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1200,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1600,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 2000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General5",
+                    "clues": [
+                        {
+                            "value": 400,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1200,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1600,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 2000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                },
+                {
+                    "category": "General6",
+                    "clues": [
+                        {
+                            "value": 400,
+                            "clue": "Test1",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 800,
+                            "clue": "Test2",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1200,
+                            "clue": "Test3",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 1600,
+                            "clue": "Test4",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        },
+                        {
+                            "value": 2000,
+                            "clue": "Test5",
+                            "clueImage": null,
+                            "answer": "Test Answer",
+                            "isDailyDouble": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "num": 3,
+            "title": "Final Jeoparty",
+            "type": "final",
+            "category": "General1",
+            "clue": "Test1",
+            "clueImage": null,
+            "answer": "Test Answer"
+        }
+    ]
+}
